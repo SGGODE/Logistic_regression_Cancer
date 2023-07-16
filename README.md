@@ -12,12 +12,12 @@ This repository contains a Python implementation of a logistic regression model 
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/cancer-prediction.git
+     git clone https://github.com/your_username/cancer-prediction.git
 
 
 2. Change into the project directory:
 
-cd cancer-prediction
+     cd cancer-prediction
 
 
 3. Install the required dependencies:
