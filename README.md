@@ -12,7 +12,7 @@ This repository contains a Python implementation of a logistic regression model 
 
 1. Clone the repository:
 
-     git clone https://github.com/your_username/cancer-prediction.git
+     git clone https://github.com/SGGODE/Logistic_regression_Cancer.git
 
 
 2. Change into the project directory:
